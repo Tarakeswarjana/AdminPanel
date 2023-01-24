@@ -1,7 +1,7 @@
 import "./widgetSm.css";
 import VisibilityIcon from '@mui/icons-material/Visibility';
-import {Link} from "react-router-dom"
-import img1 from "./istockphoto-514997006-1024x1024.jpg"
+
+// import img1 from "./istockphoto-514997006-1024x1024.jpg"
 import img2 from "./istockphoto-537334728-1024x1024.jpg"
 import img3 from "./istockphoto-855172390-1024x1024.jpg"
 import img4 from "./istockphoto-969233490-1024x1024.jpg"
